@@ -14,5 +14,10 @@
     "RANAX-QZWL9VVY8VPW": {
         "hwid": "{eaab3137-415e-11f1-95bb-806e6f6e6963}",
         "expires": "04.05.2026"
+    },
+    "RANAX-5TVESI38GONZ": {
+        "hwid": "none",
+        "expires": "06.05.2026",
+        "frozen": false
     }
 }
